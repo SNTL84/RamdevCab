@@ -34,7 +34,7 @@ The delivery tracker and asset hub for the **Ramdev Cab Taxi Service** (owner: K
 | **Owner** | Kishor |
 | **Client phone** | [09099 158258](tel:+919099158258) |
 | **Client Instagram** | [@ramdev_cab](https://www.instagram.com/ramdev_cab/) |
-| **Package price** | ₹15,000 (total setup) |
+| **Package price** | ₹21,000 (total setup) |
 | **Timeline** | 1 week |
 
 ## ✅ Scope of work
